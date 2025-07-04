@@ -42,7 +42,7 @@ const About = () => {
             <div className="animate-fade-in-up">
               <h3 className="text-2xl font-semibold mb-4 text-teal-500">Hello, I'm Chaitanya</h3>
               <p className="text-gray-300 text-lg leading-relaxed mb-6">
-                I'm a final‑year Mechanical Engineering student at Priyadarshini Institute, Hyderabad. 
+                I'm a final‑year Mechanical Engineering student at Priyadarshini Institute Of Technology & Management. 
                 What started as curiosity about how things work has evolved into a passion for AI, 
                 full‑stack development, and crafting smooth user experiences.
               </p>
