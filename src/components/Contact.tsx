@@ -1,10 +1,9 @@
-
 import { useState } from 'react';
 import { Card, CardContent } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Textarea } from '@/components/ui/textarea';
-import { Mail, Phone, Github, Linkedin, Send, MapPin } from 'lucide-react';
+import { Mail, Phone, Github, Send, MapPin } from 'lucide-react';
 import { useToast } from '@/hooks/use-toast';
 
 const Contact = () => {
@@ -66,12 +65,6 @@ const Contact = () => {
       label: 'GitHub',
       href: 'https://github.com/chaitanya1439',
       color: 'hover:text-gray-400'
-    },
-    {
-      icon: Linkedin,
-      label: 'LinkedIn',
-      href: 'https://linkedin.com/in/vellanki-chaitanya',
-      color: 'hover:text-blue-400'
     },
     {
       icon: Mail,
