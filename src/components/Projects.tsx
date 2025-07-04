@@ -19,7 +19,7 @@ const Projects = () => {
       description: 'An intelligent chat assistant powered by Gemini LLM. Provides natural language processing capabilities with a clean, intuitive Streamlit interface.',
       technologies: ['Python', 'Streamlit', 'Gemini LLM', 'NLP'],
       liveUrl: 'https://chaitanya1439-ai-assistant-fljxld.streamlit.app',
-      githubUrl: '#',
+      githubUrl: 'https://github.com/chaitanya1439/ai',
       category: 'AI/ML Application',
       featured: true
     },
@@ -28,7 +28,7 @@ const Projects = () => {
       description: 'An advanced AI agent system that combines modern web technologies with large language models to create intelligent software solutions.',
       technologies: ['Next.js', 'TypeScript', 'Tailwind CSS', 'LLM Integration'],
       liveUrl: 'https://software-agent.vercel.app',
-      githubUrl: '#',
+      githubUrl: 'https://github.com/chaitanya1439/Software-Agent',
       category: 'AI-Powered Platform',
       featured: false
     }
